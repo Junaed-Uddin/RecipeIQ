@@ -1,0 +1,152 @@
+[
+    {
+        "recipe_id": "R0C1",
+        "recipe_name": "Garlic Butter Chicken",
+        "recipe_image": "https://i.ibb.co.com/wKZdTGd/recipe-1.jpg",
+        "short_description": "Juicy chicken cooked in a creamy garlic butter sauce.",
+        "ingredients": [
+            "500 g chicken breast",
+            "3 cloves garlic",
+            "50 g unsalted butter",
+            "100 ml heavy cream",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "25 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_id": "R0C2",
+        "recipe_name": "Vegetable Stir-Fry",
+        "recipe_image": "https://i.ibb.co.com/8skNpPc/recipe-2.jpg",
+        "short_description": "A colorful mix of fresh veggies in a tangy soy sauce.",
+        "ingredients": [
+            "200 g broccoli",
+            "150 g carrots",
+            "100 g bell peppers",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "200 calories"
+    },
+    {
+        "recipe_id": "R0C3",
+        "recipe_name": "Classic Spaghetti Bolognese",
+        "recipe_image": "https://i.ibb.co.com/fH0CrnH/recipe-3.jpg",
+        "short_description": "A hearty Italian dish with rich tomato meat sauce.",
+        "ingredients": [
+            "400 g spaghetti",
+            "500 g ground beef",
+            "1 onion",
+            "400 g canned tomatoes",
+            "2 cloves garlic"
+        ],
+        "preparing_time": "35 min",
+        "calories": "480 calories"
+    },
+    {
+        "recipe_id": "R0C4",
+        "recipe_name": "Caprese Salad",
+        "recipe_image": "https://i.ibb.co.com/j4WfPjR/recipe-4.jpg",
+        "short_description": "A refreshing salad with tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "300 g tomatoes",
+            "150 g mozzarella cheese",
+            "50 g fresh basil leaves",
+            "2 tbsp olive oil",
+            "1 tsp balsamic vinegar"
+        ],
+        "preparing_time": "10 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_id": "R0C5",
+        "recipe_name": "Grilled Salmon",
+        "recipe_image": "https://i.ibb.co.com/QCjkg6N/recipe-5.jpg",
+        "short_description": "Perfectly grilled salmon with a hint of lemon and herbs.",
+        "ingredients": [
+            "2 salmon fillets",
+            "1 tbsp olive oil",
+            "1 tsp lemon zest",
+            "1 tsp dill",
+            "1 tsp salt"
+        ],
+        "preparing_time": "15 min",
+        "calories": "360 calories"
+    },
+    {
+        "recipe_id": "R0C6",
+        "recipe_name": "Avocado Toast",
+        "recipe_image": "https://i.ibb.co.com/P4LYG7n/recipe-6.jpg",
+        "short_description": "Creamy avocado spread on toasted whole-grain bread.",
+        "ingredients": [
+            "2 slices whole-grain bread",
+            "1 ripe avocado",
+            "1/2 lemon (juice)",
+            "1 tsp chili flakes",
+            "1 tsp olive oil"
+        ],
+        "preparing_time": "10 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_id": "R0C7",
+        "recipe_name": "Beef Tacos",
+        "recipe_image": "https://i.ibb.co.com/Byc4qSw/recipe-7.jpg",
+        "short_description": "Crispy tacos filled with spicy beef and fresh toppings.",
+        "ingredients": [
+            "200 g ground beef",
+            "4 taco shells",
+            "50 g shredded lettuce",
+            "50 g diced tomatoes",
+            "30 g grated cheese"
+        ],
+        "preparing_time": "20 min",
+        "calories": "380 calories"
+    },
+    {
+        "recipe_id": "R0C8",
+        "recipe_name": "Banana Smoothie",
+        "recipe_image": "https://i.ibb.co.com/8b9ND3Q/recipe-8.jpg",
+        "short_description": "A creamy and healthy banana smoothie for a quick snack.",
+        "ingredients": [
+            "2 ripe bananas",
+            "200 ml milk",
+            "50 g yogurt",
+            "1 tbsp honey",
+            "1/2 tsp cinnamon"
+        ],
+        "preparing_time": "5 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_id": "R0C9",
+        "recipe_name": "Vegetable Soup",
+        "recipe_image": "https://i.ibb.co.com/K54frBS/recipe-9.jpg",
+        "short_description": "A hearty and warm vegetable soup perfect for any day.",
+        "ingredients": [
+            "1 onion",
+            "2 carrots",
+            "100 g green beans",
+            "400 ml vegetable stock",
+            "1 tsp mixed herbs"
+        ],
+        "preparing_time": "30 min",
+        "calories": "150 calories"
+    },
+    {
+        "recipe_id": "R1C0",
+        "recipe_name": "Blueberry Pancakes",
+        "recipe_image": "https://i.ibb.co.com/Cn1rYGW/recipe-10.jpg",
+        "short_description": "Fluffy pancakes loaded with juicy blueberries.",
+        "ingredients": [
+            "200 g flour",
+            "2 eggs",
+            "200 ml milk",
+            "50 g sugar",
+            "100 g blueberries"
+        ],
+        "preparing_time": "25 min",
+        "calories": "320 calories"
+    }
+]
